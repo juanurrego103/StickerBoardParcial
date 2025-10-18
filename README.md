@@ -127,3 +127,8 @@ Autor: Juan David Urrego Jaramillo - Herramientas de Programación 2 - 2025-2 - 
 
 <img width="1001" height="535" alt="image" src="https://github.com/user-attachments/assets/be9170d3-12ae-4a83-b8c7-5807af0e982e" />
 
+<img width="1002" height="532" alt="image" src="https://github.com/user-attachments/assets/e8931d68-a0d4-4137-aa42-499d9d6d03ea" />
+
+<img width="1008" height="541" alt="image" src="https://github.com/user-attachments/assets/c72ccb88-80e5-4088-999b-afa0396dfa3d" />
+
+<img width="998" height="536" alt="image" src="https://github.com/user-attachments/assets/786a18ca-819a-458a-bb54-1005a626782b" />
