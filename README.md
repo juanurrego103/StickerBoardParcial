@@ -120,6 +120,7 @@ Entorno: Visual Studio 2022 (recomendado)
 Tipo de Proyecto: Windows Forms App (.NET Framework)
 
 Autor: Juan David Urrego Jaramillo - Herramientas de Programación 2 - 2025-2 - G-002.
+Juan David Galvis Henao - Herramientas de Programación 2 - 2025-2 - G-002.
 
 <img width="997" height="542" alt="image" src="https://github.com/user-attachments/assets/d6fa9aee-649e-4cf0-9d31-3fbb509fc676" />
 
